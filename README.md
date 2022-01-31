@@ -1,6 +1,6 @@
 # Aplikacja rezerwacji miejsc na seans filmowy 
 ### Technologie: Angular + UIkit + Django 
-
+Repo z apki frontendu: https://github.com/franoo/cinema-ticket-store
 Aplikacja służy do rezerwacji miejsca w kinie. Frontend wykonany w technologii Angular + otwarty framework UiKit jako style klas css. Do aplikacji mamy zamiar dołączyć backend w frameworku Django.
 
 Aplikacja składa się z ekranu nadchodzących seansów, szczegółów filmu po rozwinięciu pozycji, ekranu zakupu biletu przez wybór miejsca na mapie sali oraz potwierdzenie dokonania zakupu wraz z listą miejsc na bilecie. Wszystkie czynności związane z rezerwacją są następnie widoczne na mapie zajętych miejsc w przypadku dalszych rezerwacji. 
